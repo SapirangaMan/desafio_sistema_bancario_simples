@@ -1,2 +1,2 @@
-# desafio_sistema_bancario_simples
+# Desfio de criar um sistema bancário simples usando Python
 Desafio bootcamp DIO
